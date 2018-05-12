@@ -1,0 +1,31 @@
+_repo: Nala-and-Damayanti-and-Other-Poems_19529
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Milman, Henry Hart
+    alias: Milman, H. H. (Henry Hart)
+    birthdate: 1791
+    deathdate: 1868
+    gutenberg_agent_id: '8722'
+    url: http://www.gutenberg.org/2009/agents/8722
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Hart_Milman
+description: ''
+gutenberg_bookshelf:
+- Hinduism
+- India
+gutenberg_issued: '2006-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19529'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sanskrit poetry -- Translations into English'
+- !lcc 'PK'
+title: Nala and Damayanti and Other Poems
+url: http://www.gutenberg.org/ebooks/19529
